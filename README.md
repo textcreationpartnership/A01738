@@ -35,11 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A treatise of true fortitude. By M. George Gyffard, Preacher of the worde of God, at Maldon in Essex
+
+1. To the Right Honourable and his verie good Lord, the Earle of Eſſex. &c.
+
 #####Body#####
-A treatise of true fortitude. By M. George Gyffard, Preacher of the worde of God, at Maldon in Essex
+
+1. ❧ A Treatiſe of true Fortitude.
+
 #####Back#####
-A treatise of true fortitude. By M. George Gyffard, Preacher of the worde of God, at Maldon in Essex
+AT LONDON, Printed by Iames Roberts.Anno. 1594.
 **Types of content**
 
   * There are 4 **verse** lines!
